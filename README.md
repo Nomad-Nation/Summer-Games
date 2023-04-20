@@ -9,7 +9,7 @@ Feel free to download the example pack to get started
 
 [ ] Spleef
 
-[ ] Prophunt
+[X] Prophunt
 
 [ ]Elytra run
 
@@ -25,8 +25,8 @@ Feel free to download the example pack to get started
 
 [ ] Survivor
 
-[ ] Hot Potato
+[X] Hot Potato
 
 [ ] Accelerator
 
-[ ] Colorator
+[X] Colorator
