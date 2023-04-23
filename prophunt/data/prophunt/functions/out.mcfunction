@@ -6,7 +6,7 @@
 ##
 title @a title ["",{"selector":"@e[scores={sg_ph_out=1..1000}]","color": "gold"}]
 title @a subtitle "has been eliminated!"
-tp @a[scores={sg_ph_out=1..1000}] @e[tag=sg_ph_out,limit=1]
+tp @a[tag=sg_ph,scores={sg_ph_out=1..1000}] @e[tag=sg_ph_out,limit=1]
 
 
 execute as @e[tag=sg_ph_hidden_1,scores={sg_ph_out=1..1000}] run execute at @e[tag=sg_ph_player_1] run tp @e[tag=sg_ph_item_1] ~ ~ ~
