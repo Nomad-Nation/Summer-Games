@@ -4,8 +4,8 @@
  #
  # Created by Just__Ju.
 ##
-title @a title ["",{"selector":"@e[scores={sg_ph_out=1..1000}]","color": "gold"}]
-title @a subtitle "has been eliminated!"
+title @a[tag=sg_ph] title ["",{"selector":"@e[scores={sg_ph_out=1..1000}]","color": "gold"}]
+title @a[tag=sg_ph] subtitle "has been eliminated!"
 tp @a[tag=sg_ph,scores={sg_ph_out=1..1000}] @e[tag=sg_ph_out,limit=1]
 
 
